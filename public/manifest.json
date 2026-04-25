@@ -1,0 +1,22 @@
+{
+  "short_name": "MangaVibe",
+  "name": "Manga Vibe Checker",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/manga/192/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/seed/manga/512/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "id": "manga-vibe-checker",
+  "display": "standalone",
+  "theme_color": "#d4a373",
+  "background_color": "#fdfcfb"
+}
